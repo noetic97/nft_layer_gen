@@ -1,0 +1,11 @@
+{
+  "name": "nft_layer_gen",
+  "version": "1.0.0",
+  "description": "Test of Layer Generator to create NFTs",
+  "main": "index.js",
+  "author": "Joe Heitkamp",
+  "license": "MIT",
+  "scripts": {
+    "build": "node index.ts"
+  }
+}
